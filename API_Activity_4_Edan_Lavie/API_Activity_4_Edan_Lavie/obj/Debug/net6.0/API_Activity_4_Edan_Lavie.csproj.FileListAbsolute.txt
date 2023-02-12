@@ -1,0 +1,15 @@
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.csproj.AssemblyReference.cache
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.AssemblyInfoInputs.cache
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.AssemblyInfo.cs
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.csproj.CoreCompileInputs.cache
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\bin\Debug\net6.0\API_Activity_4_Edan_Lavie.exe
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\bin\Debug\net6.0\API_Activity_4_Edan_Lavie.deps.json
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\bin\Debug\net6.0\API_Activity_4_Edan_Lavie.runtimeconfig.json
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\bin\Debug\net6.0\API_Activity_4_Edan_Lavie.dll
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\bin\Debug\net6.0\API_Activity_4_Edan_Lavie.pdb
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.dll
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\refint\API_Activity_4_Edan_Lavie.dll
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.pdb
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\API_Activity_4_Edan_Lavie.genruntimeconfig.cache
+C:\Users\edanl\source\repos\API_Activity_4_Edan_Lavie\API_Activity_4_Edan_Lavie\obj\Debug\net6.0\ref\API_Activity_4_Edan_Lavie.dll

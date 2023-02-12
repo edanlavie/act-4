@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edanl\\source\\repos\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edanl\\source\\repos\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edanl\\source\\repos\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie.csproj",
+        "projectName": "API_Activity_4_Edan_Lavie",
+        "projectPath": "C:\\Users\\edanl\\source\\repos\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie.csproj",
+        "packagesPath": "C:\\Users\\edanl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edanl\\source\\repos\\API_Activity_4_Edan_Lavie\\API_Activity_4_Edan_Lavie\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
