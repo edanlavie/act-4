@@ -1,21 +1,4 @@
-﻿/*
-CREATE A CONSOLE APP WITH A CLASS                       // done
-THAT HAS AN INTERFACE                                   // done
-AND PUSH IT TO A GIT REPO!                              // 
-SEND ME THE LINK TO THE REPOSITORY WHEN DONE. ​          // 
-
-YOUR CLASS SHOULD HAVE AT LEAST ONE INTERFACE           // done
-AND THREE DIFFERENT TYPES OF PROPERTIES.​                // done
-
-THE INTERFACE (AND THEREFORE, YOUR CLASS) 
-SHOULD HAVE AT LEAST THREE OUT OF THESE FOUR THINGS:​
-    INSTANCE METHODS,                                   // ???
-    PROPERTIES,                                         // done
-    EVENTS,                                             //
-    INDEXERS.​                                           // 
-
-MAKE SURE YOU HAVE AN INSTANCE OF THIS CLASS IN MAIN!​  
- */
+// Edan Lavie
 
 // Interface for Jukebox Class
 interface MyInterface
